@@ -1,5 +1,3 @@
-# com.sniveler-code.gpu-animation
-
 # overview
 1. Bake animations multiple prefabs to textures
 2. Using next frame for linear translation (low fps, less texture size)
