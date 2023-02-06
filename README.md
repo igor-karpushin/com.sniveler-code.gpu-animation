@@ -13,3 +13,9 @@
 3. First Animation (animation index == 0) is T Pose
 4. All diffuse textures packed in one (normals/speculars/other in develop)
 5. LODS in developing state 
+
+# samples
+flying
+> <img src="https://raw.githubusercontent.com/igor-karpushin/com.sniveler-code.gpu-animation/main/Images/SampleFlyingFrameDebugger.jpg" width="700">
+walking
+> <img src="https://raw.githubusercontent.com/igor-karpushin/com.sniveler-code.gpu-animation/main/Images/SampleWalkingFrameDebugger.jpg" width="700">
